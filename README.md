@@ -17,5 +17,5 @@ A curated list of AI agent desktop applications.
 - [open-claude-cowork](https://github.com/ComposioHQ/open-claude-cowork) - Cross-platform desktop app for agentic chat powered by Claude Agent SDK
 - [OpenWork](https://github.com/langchain-ai/openwork) - A desktop app for isolated, parallel agentic development
 - [Superset](https://github.com/superset-sh/superset) - The terminal for orchestrating agents
-- [vibed](https://www.vibed.inc) - CRACKED VIBE CODING
+- [vibed](https://www.vibed.inc) - Run an army of agents to build your ideas over a weekend
 - [claude-agent-desktop](https://github.com/pheuter/claude-agent-desktop) - A desktop interface for Claude Agent
