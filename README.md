@@ -7,8 +7,8 @@ A curated list of AI agent desktop applications.
 - [1Code](https://1code.dev) - An autonomous AI worker on your desktop
 - [ActForge](https://www.actforge.com) - Desktop autonomous AI assistant
 - [Ami](https://ami.dev) - Run coding agents on your desktop without breaking your flow
-- [claude-agent-desktop](https://github.com/pheuter/claude-agent-desktop) - A desktop interface for Claude Agent
 - [Claude Code Desktop](https://code.claude.com/docs/en/desktop) - Run Claude Code tasks locally or on secure cloud infrastructure with the Claude desktop app
+- [claude-agent-desktop](https://github.com/pheuter/claude-agent-desktop) - A desktop interface for Claude Agent
 - [CodexMonitor](https://github.com/Dimillian/CodexMonitor) - An app to monitor the (Codex) situation
 - [Craft Agents](https://github.com/lukilabs/craft-agents-oss) - Open Source version of Claude Cowork built with Claude Code and Composio Tool Router
 - [Cursor](https://cursor.com) - The best way to code with AI
