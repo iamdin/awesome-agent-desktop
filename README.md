@@ -18,6 +18,7 @@ A curated list of AI agent desktop applications.
 - [Mux](https://github.com/coder/mux) - The terminal for orchestrating agents - Run dozens of Claude Code, OpenCode, or any other CLI agents on your machine
 - [open-claude-cowork](https://github.com/ComposioHQ/open-claude-cowork) - Cross-platform desktop app for agentic chat powered by Claude Agent SDK
 - [OpenChamber](https://github.com/btriapitsyn/openchamber) - Desktop and web interface for OpenCode AI agent
+- [openwork (different-ai)](https://github.com/different-ai/openwork) - An open-source alternative to Claude Cowork, powered by OpenCode
 - [OpenWork](https://github.com/langchain-ai/openwork) - A desktop app for isolated, parallel agentic development
 - [Superset](https://github.com/superset-sh/superset) - The terminal for orchestrating agents
 - [vibed](https://www.vibed.inc) - Run an army of agents to build your ideas over a weekend
