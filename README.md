@@ -6,6 +6,7 @@ A curated list of AI agent desktop applications.
 
 - [1Code](https://1code.dev) - An autonomous AI worker on your desktop
 - [ActForge](https://www.actforge.com) - Desktop autonomous AI assistant
+- [Agentastic](https://agentastic.dev) - Terminal-first multi-agent IDE for Mac
 - [Ami](https://ami.dev) - Run coding agents on your desktop without breaking your flow
 - [Claude Code Desktop](https://code.claude.com/docs/en/desktop) - Run Claude Code tasks locally or on secure cloud infrastructure with the Claude desktop app
 - [claude-agent-desktop](https://github.com/pheuter/claude-agent-desktop) - A desktop interface for Claude Agent
