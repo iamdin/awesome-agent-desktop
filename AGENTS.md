@@ -7,7 +7,7 @@
 ## Edit Guidelines
 - Add new entries only to the list in `README.md`.
 - Format each item as: `- [Name](URL) - Short description`.
-- Keep the existing ordering and style; append new items to the end.
+- Keep the existing ordering and style; maintain alphabetical order.
 - Use plain ASCII text unless the source name requires otherwise.
 
 ## Validation
