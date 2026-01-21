@@ -10,6 +10,7 @@ A curated list of AI agent desktop applications.
 - [Claude Code Desktop](https://code.claude.com/docs/en/desktop) - Run Claude Code tasks locally or on secure cloud infrastructure with the Claude desktop app
 - [claude-agent-desktop](https://github.com/pheuter/claude-agent-desktop) - A desktop interface for Claude Agent
 - [CodexMonitor](https://github.com/Dimillian/CodexMonitor) - An app to monitor the (Codex) situation
+- [Commander](https://commanderai.app) - Native Mac AI coding assistant for Claude Code
 - [Craft Agents](https://github.com/lukilabs/craft-agents-oss) - Open Source version of Claude Cowork built with Claude Code and Composio Tool Router
 - [Cursor](https://cursor.com) - The best way to code with AI
 - [Multica](https://github.com/multica-ai/multica) - A native desktop client that brings coding agent capabilities to everyone through a visual interface
