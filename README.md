@@ -24,3 +24,4 @@ A curated list of AI agent desktop applications.
 - [OpenWork](https://github.com/langchain-ai/openwork) - A desktop app for isolated, parallel agentic development
 - [Superset](https://github.com/superset-sh/superset) - The terminal for orchestrating agents
 - [vibed](https://www.vibed.inc) - Run an army of agents to build your ideas over a weekend
+- [WorkAny](https://github.com/workany-ai/workany) - Desktop Agent for Any Task
