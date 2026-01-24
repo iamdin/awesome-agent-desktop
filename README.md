@@ -22,6 +22,7 @@ A curated list of AI agent desktop applications.
 - [OpenChamber](https://github.com/btriapitsyn/openchamber) - Desktop and web interface for OpenCode AI agent
 - [openwork (different-ai)](https://github.com/different-ai/openwork) - An open-source alternative to Claude Cowork, powered by OpenCode
 - [OpenWork](https://github.com/langchain-ai/openwork) - A desktop app for isolated, parallel agentic development
+- [Quests](https://github.com/quests-org/quests) - The open-source app builder that builds and runs apps on your computer using any LLM
 - [Superset](https://github.com/superset-sh/superset) - The terminal for orchestrating agents
 - [vibed](https://www.vibed.inc) - Run an army of agents to build your ideas over a weekend
 - [WorkAny](https://github.com/workany-ai/workany) - Desktop Agent for Any Task
