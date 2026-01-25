@@ -2,8 +2,6 @@
 
 A curated list of AI agent desktop applications.
 
-## Agent Desktop Clients
-
 - [1Code](https://1code.dev) - An autonomous AI worker on your desktop
 - [ActForge](https://www.actforge.com) - Desktop autonomous AI assistant
 - [Agentastic](https://agentastic.dev) - Terminal-first multi-agent IDE for Mac
