@@ -7,6 +7,7 @@ A curated list of AI agent desktop applications.
 - [Agentastic](https://agentastic.dev) - Terminal-first multi-agent IDE for Mac
 - [Alma](https://alma.now) - Elegant AI provider orchestration desktop app
 - [Ami](https://ami.dev) - Run coding agents on your desktop without breaking your flow
+- [Auto-Claude](https://github.com/AndyMik90/Auto-Claude) - Autonomous multi-session AI coding
 - [Claude Code Desktop](https://code.claude.com/docs/en/desktop) - Run Claude Code tasks locally or on secure cloud infrastructure with the Claude desktop app
 - [claude-agent-desktop](https://github.com/pheuter/claude-agent-desktop) - A desktop interface for Claude Agent
 - [CodexMonitor](https://github.com/Dimillian/CodexMonitor) - An app to monitor the (Codex) situation
