@@ -24,6 +24,6 @@ A curated list of AI agent desktop applications.
 - [OpenWork](https://github.com/langchain-ai/openwork) - A desktop app for isolated, parallel agentic development
 - [Quests](https://github.com/quests-org/quests) - The open-source app builder that builds and runs apps on your computer using any LLM
 - [Superset](https://github.com/superset-sh/superset) - The terminal for orchestrating agents
-- [vibed](https://www.vibed.inc) - Run an army of agents to build your ideas over a weekend
+- [vibed](https://www.vibed.inc) - A clean, fun experience built for vibe coders who want to unleash Claude
 - [WorkAny](https://github.com/workany-ai/workany) - Desktop Agent for Any Task
 - [Z Code](https://zcode-ai.com/) - Combines the best AI agents with your existing tools so you can plan, code, review, and deploy without friction
