@@ -19,6 +19,7 @@ A curated list of AI agent desktop applications.
 - [Inspector](https://www.tryinspector.com) - Edit your front-end, visually
 - [Multica](https://github.com/multica-ai/multica) - A native desktop client that brings coding agent capabilities to everyone through a visual interface
 - [Mux](https://github.com/coder/mux) - The terminal for orchestrating agents - Run dozens of Claude Code, OpenCode, or any other CLI agents on your machine
+- [OpenAI Codex](https://openai.com/codex/) - Cloud-based coding agent with parallel task execution in sandboxed environments
 - [open-claude-cowork](https://github.com/ComposioHQ/open-claude-cowork) - Cross-platform desktop app for agentic chat powered by Claude Agent SDK
 - [OpenChamber](https://github.com/btriapitsyn/openchamber) - Desktop and web interface for OpenCode AI agent
 - [openwork (different-ai)](https://github.com/different-ai/openwork) - An open-source alternative to Claude Cowork, powered by OpenCode
