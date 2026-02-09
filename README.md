@@ -18,6 +18,7 @@ A curated list of AI agent desktop applications.
 - [Craft Agents](https://github.com/lukilabs/craft-agents-oss) - Open Source version of Claude Cowork built with Claude Code and Composio Tool Router
 - [Cursor](https://cursor.com) - The best way to code with AI
 - [Inspector](https://www.tryinspector.com) - Edit your front-end, visually
+- [Maestro](https://github.com/pedramamini/Maestro) - Cross-platform app for orchestrating multiple AI coding agents in parallel
 - [Multica](https://github.com/multica-ai/multica) - A native desktop client that brings coding agent capabilities to everyone through a visual interface
 - [Mux](https://github.com/coder/mux) - The terminal for orchestrating agents - Run dozens of Claude Code, OpenCode, or any other CLI agents on your machine
 - [OpenAI Codex](https://openai.com/codex/) - Cloud-based coding agent with parallel task execution in sandboxed environments
