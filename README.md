@@ -9,6 +9,7 @@ A curated list of AI agent desktop applications.
 - [Alma](https://alma.now) - Elegant AI provider orchestration desktop app
 - [Ami](https://ami.dev) - Run coding agents on your desktop without breaking your flow
 - [Auto-Claude](https://github.com/AndyMik90/Auto-Claude) - Autonomous multi-session AI coding
+- [BitFun](https://github.com/GCWing/BitFun) - Agentic Development Environment for human-machine collaboration in software development
 - [Claude Code Desktop](https://code.claude.com/docs/en/desktop) - Run Claude Code tasks locally or on secure cloud infrastructure with the Claude desktop app
 - [claude-agent-desktop](https://github.com/pheuter/claude-agent-desktop) - A desktop interface for Claude Agent
 - [CodePilot](https://github.com/op7418/CodePilot) - Native desktop GUI for Claude Code with visual project management
