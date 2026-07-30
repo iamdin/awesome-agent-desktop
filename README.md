@@ -30,6 +30,7 @@ A curated list of AI agent desktop applications.
 - [openwork (different-ai)](https://github.com/different-ai/openwork) - An open-source alternative to Claude Cowork, powered by OpenCode
 - [OpenWork](https://github.com/langchain-ai/openwork) - A desktop app for isolated, parallel agentic development
 - [Orchids](https://www.orchids.app/) - The Vibe Coding IDE
+- [Orkas](https://orkas.ai/?source=gh_agentdesktop) - Open-source local-first desktop workspace where a Commander coordinates specialist AI agents
 - [Quests](https://github.com/quests-org/quests) - The open-source app builder that builds and runs apps on your computer using any LLM
 - [Supacode](https://supacode.sh/) - Run 50+ coding agents in parallel
 - [Superset](https://github.com/superset-sh/superset) - The terminal for orchestrating agents
