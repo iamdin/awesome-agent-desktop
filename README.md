@@ -7,6 +7,7 @@ A curated list of AI agent desktop applications.
 - [Agentastic](https://agentastic.dev) - Terminal-first multi-agent IDE for Mac
 - [Aizen](https://aizen.win/) - Bring order to your repos. Switch worktrees, not windows
 - [Alma](https://alma.now) - Elegant AI provider orchestration desktop app
+- [AICraft](https://github.com/Easlie114514/AICraft) - Desktop AI capability launcher — manage LLM Skills, MCP tools, and memory like loading Minecraft mods. One-click DeepSeek setup, role emotion portraits, portable exe. | 桌面AI能力启动器，像加载Minecraft模组一样管理LLM技能、MCP工具和记忆
 - [Ami](https://ami.dev) - Run coding agents on your desktop without breaking your flow
 - [Auto-Claude](https://github.com/AndyMik90/Auto-Claude) - Autonomous multi-session AI coding
 - [BitFun](https://github.com/GCWing/BitFun) - Agentic Development Environment for human-machine collaboration in software development
