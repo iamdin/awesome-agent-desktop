@@ -20,7 +20,7 @@ Native and cross-platform desktop applications for running, orchestrating, and r
 - [1Code](https://1code.dev) - An autonomous AI worker on your desktop.
 - [ActForge](https://www.actforge.com) - Desktop autonomous AI assistant.
 - [Agent Orchestrator](https://github.com/Untrivial-ai/agent-orchestrator) - Agent IDE that enables you to manage fleets of coding agents.
-- [Agent Teams](https://github.com/777genius/agent-teams-ai) - Agent teams handle tasks on their own, message each other, and review each other's work while you watch the Kanban board.
+- [Agent Teams](https://github.com/777genius/agent-teams-ai) - Kanban workspace where agents take high-level commands, message each other, and review each other's work.
 - [Agentastic](https://agentastic.dev) - Terminal-first multi-agent IDE for Mac.
 - [Aizen](https://aizen.win/) - Bring order to your repos. Switch worktrees, not windows.
 - [Alma](https://alma.now) - Elegant AI provider orchestration desktop app.
@@ -35,7 +35,7 @@ Native and cross-platform desktop applications for running, orchestrating, and r
 - [Collaborator](https://github.com/collabs-inc/collab-public) - Terminals, editors, and files arranged as tiles on an infinite pan-and-zoom canvas.
 - [Commander](https://commanderai.app) - Native Mac AI coding assistant for Claude Code.
 - [Conductor](https://www.conductor.build/) - Run a team of coding agents on your Mac.
-- [Constellagent](https://github.com/owengretzinger/constellagent) - Desktop app for running multiple AI agents in parallel, each with its own terminal, editor, and git worktree.
+- [Constellagent](https://github.com/owengretzinger/constellagent) - Desktop app for running multiple AI agents in parallel, each with its own terminal, editor, and Git worktree.
 - [Craft Agents](https://github.com/craft-ai-agents/craft-agents-oss) - Open source version of Claude Cowork built with Claude Code and Composio Tool Router.
 - [Dorothy](https://github.com/Charlie85270/Dorothy) - Desktop app pairing agent orchestration with automations, Kanban management, and MCP servers.
 - [Eigent](https://github.com/eigent-ai/eigent) - The Open Source Cowork Desktop to Unlock Your Exceptional Productivity.
@@ -54,12 +54,12 @@ Native and cross-platform desktop applications for running, orchestrating, and r
 - [openwork (different-ai)](https://github.com/different-ai/openwork) - The open-source alternative to Claude Cowork, powered by opencode.
 - [OpenWork (LangChain)](https://github.com/langchain-ai/openwork) - A desktop app for isolated, parallel agentic development.
 - [Orca](https://github.com/stablyai/orca) - The ADE for working with a fleet of parallel agents, on desktop, mobile, and VPS.
-- [Parallel Code](https://github.com/johannesjo/parallel-code) - Run Claude Code, Codex, and Gemini side by side, each in its own git worktree.
+- [Parallel Code](https://github.com/johannesjo/parallel-code) - Run Claude Code, Codex, and Gemini side by side, each in its own Git worktree.
 - [Quests](https://github.com/quests-org/quests) - The open-source app builder that builds and runs apps on your computer using any LLM.
 - [Supacode](https://supacode.sh/) - Run 50+ coding agents in parallel.
 - [Superset](https://github.com/superset-sh/superset) - Code editor for the AI agents era, running an army of Claude Code, Codex, and more on your machine.
 - [Synara](https://github.com/Emanuele-web04/synara) - GUI desktop workspace for running and managing agents across local projects.
-- [Vibe Tree](https://github.com/sahithvibudhi/vibe-tree) - Run AI coding agents in parallel, one git worktree each, on desktop, web, and CLI.
+- [Vibe Tree](https://github.com/sahithvibudhi/vibe-tree) - Run AI coding agents in parallel, one Git worktree each, on desktop, web, and CLI.
 - [WorkAny](https://github.com/workany-ai/workany) - Desktop Agent for Any Task.
 - [Z Code](https://zcode-ai.com/) - Combines the best AI agents with your existing tools so you can plan, code, review, and deploy without friction.
 
@@ -94,7 +94,7 @@ Terminal-native surfaces for keeping many concurrent agent sessions legible.
 - [agterm](https://github.com/umputun/agterm) - Terminal for agentic flow.
 - [Claude Squad](https://github.com/smtg-ai/claude-squad) - Manage multiple AI terminal agents like Claude Code, Codex, OpenCode, and Amp.
 - [cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents.
-- [dmux](https://github.com/standardagents/dmux) - A dev agent multiplexer for git worktrees and coding agents.
+- [dmux](https://github.com/standardagents/dmux) - A dev agent multiplexer for Git worktrees and coding agents.
 - [Herdr](https://github.com/herdrdev/herdr) - The runtime your coding agents live on.
 
 ## Web, Mobile, and Remote Clients
