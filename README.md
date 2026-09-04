@@ -57,6 +57,7 @@ Native and cross-platform desktop applications for running, orchestrating, and r
 - [Parallel Code](https://github.com/johannesjo/parallel-code) - Run Claude Code, Codex, and Gemini side by side, each in its own Git worktree.
 - [Quests](https://github.com/quests-org/quests) - The open-source app builder that builds and runs apps on your computer using any LLM.
 - [Supacode](https://supacode.sh/) - Run 50+ coding agents in parallel.
+- [Superagent](https://github.com/pungme/superagent-desktop) - macOS desktop app that gives Claude Code and Codex a real browser to drive, an iOS Simulator to install and screenshot apps in, and a phone companion app for remote monitoring.
 - [Superset](https://github.com/superset-sh/superset) - Code editor for the AI agents era, running an army of Claude Code, Codex, and more on your machine.
 - [Synara](https://github.com/Emanuele-web04/synara) - GUI desktop workspace for running and managing agents across local projects.
 - [Vibe Tree](https://github.com/sahithvibudhi/vibe-tree) - Run AI coding agents in parallel, one Git worktree each, on desktop, web, and CLI.
