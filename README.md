@@ -79,6 +79,7 @@ Editors and IDEs built around agents rather than around autocomplete.
 
 The agents themselves, as command-line products.
 
+- [Agent QA](https://vostride.com/docs/agent-qa) - Write tests in natural language for web and mobile.
 - [Aider](https://github.com/Aider-AI/aider) - AI pair programming in your terminal.
 - [Claude Code](https://github.com/anthropics/claude-code) - An agentic coding tool that lives in your terminal, understands your codebase, and handles routine tasks through natural language.
 - [Codex CLI](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal.
